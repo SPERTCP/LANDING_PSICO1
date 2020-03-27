@@ -239,7 +239,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2020 PsicoAbundancia.com. <a href=\"https://mobirise.com/\">Terms of Use</a>  | <a href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "text": "Copyright (c) 2020 PsicoAbundancia.com. <a href=\"http://www.psicoabundancia.com/terminosdeuso\" target=\"_blank\">Terms of Use</a>  | <a href=\"http://www.psicoabundancia.com/politicadeprivacidad\" target=\"_blank\">Privacy Policy</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
