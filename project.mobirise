@@ -45,8 +45,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<script src=\"https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?24049215\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.fromdoppler.com/formgenerator/latest/styles.css?24049215\">",
-        "footer_custom": "<!-- insert this in body --><script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"DwDLLPeUEXTlTepcynsIjQ%3D%3D\", \"637208880628154231\") });</script>\n<div class=\"_dp_container-form\" id=\"637208880628154231\"></div>",
+        "header_custom": "<script src=\"https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?68119338\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.fromdoppler.com/formgenerator/latest/styles.css?68119338\">",
+        "footer_custom": "<!-- insert this in body --><script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"2NHodGWmPFy9zLGtLMcYuQ%3D%3D\", \"637208901884514794\") });</script>\n<div class=\"_dp_container-form\" id=\"637208901884514794\"></div>",
         "html_before": ""
       },
       "components": [
@@ -168,8 +168,8 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
