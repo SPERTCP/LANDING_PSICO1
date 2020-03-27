@@ -123,7 +123,7 @@
           },
           "title": "Taller de Psicoabundancia Online",
           "text": "&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#custom-html-7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apuntarme</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#custom-html-b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apuntarme</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -174,7 +174,7 @@
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#a7b0c3",
+            "bgColor": "#bbe8cc",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -204,7 +204,7 @@
           "title": "El Taller",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>En este video tienes mas información sobre el taller.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#custom-html-7\" data-toolbar=\"-mbrBtnMove\">Apuntarme</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#custom-html-b\" data-toolbar=\"-mbrBtnMove\">Apuntarme</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
