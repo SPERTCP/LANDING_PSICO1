@@ -45,8 +45,8 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<script src=\"https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?68119338\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.fromdoppler.com/formgenerator/latest/styles.css?68119338\">",
-        "footer_custom": "<!-- insert this in body --><script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"2NHodGWmPFy9zLGtLMcYuQ%3D%3D\", \"637208901884514794\") });</script>\n<div class=\"_dp_container-form\" id=\"637208901884514794\"></div>",
+        "header_custom": "",
+        "footer_custom": "",
         "html_before": ""
       },
       "components": [
@@ -135,7 +135,7 @@
               "color": "#ffffff",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "48px"
+              "font-size": "36px"
             },
             "P": {
               "color": "#000641",
@@ -149,7 +149,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n    \n  <align>    \n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"600\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    \n</align>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n    \n  <align>    \n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"700\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    \n</align>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -210,7 +210,12 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-9"
+          "_anchor": "msg-box5-9",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"30\" style=\"background-color: rgb(255, 255, 255); padding-top: 1.5rem; padding-bottom: 3rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-lg-9 mbr-table-cell-lg image-size\" style=\"width: 50%;\">\n                <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/55WFbjwmzug?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n            <div class=\"col-xs-12 col-lg-3 mbr-inner-padding text-xs-center mbr-table-cell-lg\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"10\">El Taller</h3>\n                \n                <div class=\"lead mbr-editable-full\" code-editable-id=\"11\"><p>Aqui puedes ver mas detalles sobre el taller</p></div>\n                <div><a class=\"btn btn-lg btn-secondary-outline mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"12\">Apuntarme</a></div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         },
         {
           "_params": {
