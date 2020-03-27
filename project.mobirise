@@ -35,7 +35,7 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "uniqCompNum": 10,
+    "uniqCompNum": 12,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -149,14 +149,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n    \n  <align>    \n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"700\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    \n</align>\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n<align>\n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"700\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    </align></div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-7",
+          "_anchor": "custom-html-b",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
         },
@@ -168,13 +168,13 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#a7b0c3",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -203,19 +203,28 @@
           },
           "title": "El Taller",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Aqui puedes ver mas detalles sobre el taller</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Apuntarme</a>",
+          "text": "<p>En este video tienes mas información sobre el taller.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#custom-html-7\" data-toolbar=\"-mbrBtnMove\">Apuntarme</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-9",
-          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding mbr-after-navbar\" data-rv-view=\"30\" style=\"background-color: rgb(255, 255, 255); padding-top: 1.5rem; padding-bottom: 3rem;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 col-lg-9 mbr-table-cell-lg image-size\" style=\"width: 50%;\">\n                <div class=\"mbr-figure\"><iframe class=\"mbr-embedded-video\" src=\"https://www.youtube.com/embed/55WFbjwmzug?rel=0&amp;amp;showinfo=0&amp;autoplay=0&amp;loop=0\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\"\"></iframe></div>\n            </div>\n            <div class=\"col-xs-12 col-lg-3 mbr-inner-padding text-xs-center mbr-table-cell-lg\">\n                <h3 class=\"mbr-section-title display-4 mbr-editable-content\" code-editable-id=\"10\">El Taller</h3>\n                \n                <div class=\"lead mbr-editable-full\" code-editable-id=\"11\"><p>Aqui puedes ver mas detalles sobre el taller</p></div>\n                <div><a class=\"btn btn-lg btn-secondary-outline mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"12\">Apuntarme</a></div>\n            </div>\n            \n        </div>\n    </div>\n</section>",
+          "_anchor": "msg-box5-a"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n    \n  <align>    \n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"700\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    \n</align>\n</div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-7",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "",
-          "_customTemplate": true
+          "_JSplaceholders": []
         },
         {
           "_params": {
