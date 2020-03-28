@@ -121,7 +121,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "title": "Taller de Psicoabundancia Online",
+          "title": "Taller de Psicoabundancia Online.<br><br>Aprende a reprogramar tu cerebro para la abundancia.<br><br>Descubre cuales son tus modelos mentales.",
           "text": "&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#custom-html-b\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Apuntarme</a> ",
           "alias": "purity/components",
@@ -132,7 +132,7 @@
           "_anchor": "header4-a",
           "_styles": {
             "H1": {
-              "color": "#ffffff",
+              "color": "#cfeff6",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "36px"
@@ -153,7 +153,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "55",
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
@@ -196,7 +196,15 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-a"
+          "_anchor": "msg-box5-a",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000641"
+            },
+            ".lead": {
+              "color": "#000641"
+            }
+          }
         },
         {
           "_customTemplate": true,

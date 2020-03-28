@@ -21,7 +21,7 @@
   color: #000000;
 }
 #header4-a H1 {
-  color: #ffffff;
+  color: #cfeff6;
   font-family: 'Montserrat', sans-serif;
   font-size: 36px;
 }
@@ -31,6 +31,12 @@
 }
 #header4-a .btn {
   font-size: 25px;
+}
+#msg-box5-a .mbr-section-title {
+  color: #000641;
+}
+#msg-box5-a .lead {
+  color: #000641;
 }
 #custom-html-b {
   /* Type valid CSS here */
