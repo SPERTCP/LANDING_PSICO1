@@ -45,9 +45,9 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '230133501506741');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=230133501506741&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n\n<!-- insert this in head -->\n<script src=\"https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?32012442\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.fromdoppler.com/formgenerator/latest/styles.css?32012442\">\n\n",
+        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '230133501506741');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=230133501506741&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n",
         "footer_custom": "",
-        "html_before": "<!-- insert this in body --><script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"8uULIo7B2sE4Rw8AUXWUgQ%3D%3D\", \"637215086125369265\") });</script>\n<div class=\"_dp_container-form\" id=\"637215086125369265\"></div>\n"
+        "html_before": ""
       },
       "components": [
         {
@@ -128,7 +128,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n\n<!-- insert this in body -->[JS_CODE_0]\n<div class=\"_dp_container-form\" id=\"637215086125369265\">\n\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n<div>\n<align>\n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=8uULIo7B2sE4Rw8AUXWUgQ%3d%3d\" height=\"835\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n</align>\n</div>",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -137,9 +137,7 @@
           "_name": "pro.custom-html",
           "_anchor": "custom-html-b",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"8uULIo7B2sE4Rw8AUXWUgQ%3D%3D\", \"637215086125369265\") });</script>"
-          ]
+          "_JSplaceholders": []
         },
         {
           "_params": {
