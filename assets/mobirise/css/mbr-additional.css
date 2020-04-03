@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
 #dropdown-menu-0 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -20,24 +19,6 @@
 #dropdown-menu-0 .navbar-toggler {
   color: #000000;
 }
-#header4-a H1 {
-  color: #cfeff6;
-  font-family: 'Montserrat', sans-serif;
-  font-size: 36px;
-}
-#header4-a P {
-  color: #000641;
-  font-size: 60px;
-}
-#header4-a .btn {
-  font-size: 25px;
-}
-#msg-box5-a .mbr-section-title {
-  color: #000641;
-}
-#msg-box5-a .lead {
-  color: #000641;
-}
 #custom-html-b {
   /* Type valid CSS here */
 }
@@ -50,15 +31,66 @@
   font-size: 60px;
   color: #777;
 }
-#custom-html-c {
+
+#dropdown-menu-d .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-d .nav .link,
+#dropdown-menu-d .dropdown-item {
+  font-size: 1em;
+  color: #000000;
+}
+#dropdown-menu-d .navbar,
+#dropdown-menu-d .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-d .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-d .dropdown-menu a:hover,
+#dropdown-menu-d .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-d .navbar-toggler {
+  color: #000000;
+}
+#header4-e H1 {
+  color: #cfeff6;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 36px;
+}
+#header4-e P {
+  color: #000641;
+  font-size: 60px;
+}
+#header4-e .btn {
+  font-size: 25px;
+}
+#msg-box5-f .mbr-section-title {
+  color: #000641;
+}
+#msg-box5-f .lead {
+  color: #000641;
+}
+#custom-html-g {
   /* Type valid CSS here */
 }
-#custom-html-c div {
+#custom-html-g div {
   padding: 80px 0;
   color: #777;
   text-align: center;
 }
-#custom-html-c p {
+#custom-html-g p {
+  font-size: 60px;
+  color: #777;
+}
+#custom-html-h {
+  /* Type valid CSS here */
+}
+#custom-html-h div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-h p {
   font-size: 60px;
   color: #777;
 }

@@ -13,7 +13,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "Psicoabundancia Landing Page",
+    "name": "Psicoabundancia Landing 1",
     "versionFirst": "4.11.6",
     "siteFonts": [],
     "favicon": "@PROJECT_PATH@/assets/images/logo-psico-abundancia-5.png",
@@ -35,7 +35,7 @@
       "textButton": "Agree"
     },
     "gdpr": false,
-    "uniqCompNum": 13,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -45,11 +45,36 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '230133501506741');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=230133501506741&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '230133501506741');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=230133501506741&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->\n\n<!-- insert this in head -->\n<script src=\"https://cdn.fromdoppler.com/formgenerator/latest/vendor.js?72130105\"></script>\n<link rel=\"stylesheet\" href=\"https://cdn.fromdoppler.com/formgenerator/latest/styles.css?72130105\">",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "<!-- insert this in body --><script id=\"formRender\" type=\"text/javascript\">$jqf().ready(function () { renderForm(\"8uULIo7B2sE4Rw8AUXWUgQ%3D%3D\", \"637215083185063771\") });</script>\n<div class=\"_dp_container-form\" id=\"637215083185063771\"></div>"
       },
       "components": [
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fb-ads-arantza1-1.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-j"
+        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -101,6 +126,103 @@
           "_anchor": "dropdown-menu-0"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n<div id=\"Formulario\">\n<align>\n<iframe id=\"doppler_subscription\" src=\"https://app2.fromdoppler.com/Lists/FormProcessing/PublishedForm?IdForm=2NHodGWmPFy9zLGtLMcYuQ%3d%3d\" height=\"830\" width=\"375\" scrolling=\"yes\" frameborder=\"no\" style=\"overflow:scroll\"></iframe>\n    </align></div>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-b",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000641",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 PsicoAbundancia.com. <a href=\"http://www.psicoabundancia.com/politicadeprivacidad.htm\" target=\"_blank\">Terms of Use</a>  | <a href=\"http://www.psicoabundancia.com/politicadeprivacidad.htm\" target=\"_blank\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Page 1",
+        "meta_descr": "",
+        "header_custom": "<!-- Facebook Pixel Code -->\n<script>\n  !function(f,b,e,v,n,t,s)\n  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?\n  n.callMethod.apply(n,arguments):n.queue.push(arguments)};\n  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';\n  n.queue=[];t=b.createElement(e);t.async=!0;\n  t.src=v;s=b.getElementsByTagName(e)[0];\n  s.parentNode.insertBefore(t,s)}(window, document,'script',\n  'https://connect.facebook.net/en_US/fbevents.js');\n  fbq('init', '230133501506741');\n  fbq('track', 'PageView');\n</script>\n<noscript><img height=\"1\" width=\"1\" style=\"display:none\"\n  src=\"https://www.facebook.com/tr?id=230133501506741&ev=PageView&noscript=1\"\n/></noscript>\n<!-- End Facebook Pixel Code -->",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#000000"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#f5f5f5"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#000000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-psico-abundancia-6.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-black\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PsicoAbundancia</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-d"
+        },
+        {
           "_inherit": "header1",
           "_params": {
             "showTitle": true,
@@ -129,7 +251,6 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-a",
           "_styles": {
             "H1": {
               "color": "#cfeff6",
@@ -144,7 +265,8 @@
             ".btn": {
               "font-size": "25px"
             }
-          }
+          },
+          "_anchor": "header4-e"
         },
         {
           "_params": {
@@ -196,7 +318,6 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-a",
           "_styles": {
             ".mbr-section-title": {
               "color": "#000641"
@@ -204,7 +325,8 @@
             ".lead": {
               "color": "#000641"
             }
-          }
+          },
+          "_anchor": "msg-box5-f"
         },
         {
           "_customTemplate": true,
@@ -216,9 +338,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-b",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-g"
         },
         {
           "_customTemplate": true,
@@ -230,9 +352,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-c",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-h"
         },
         {
           "_params": {
@@ -253,7 +375,7 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-8"
+          "_anchor": "footer1-i"
         }
       ]
     }
